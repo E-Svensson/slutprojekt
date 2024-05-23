@@ -1,0 +1,15 @@
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\bin\Debug\net6.0\Slutprojekt.exe
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\bin\Debug\net6.0\Slutprojekt.deps.json
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\bin\Debug\net6.0\Slutprojekt.runtimeconfig.json
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\bin\Debug\net6.0\Slutprojekt.dll
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\bin\Debug\net6.0\Slutprojekt.pdb
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.csproj.AssemblyReference.cache
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.AssemblyInfoInputs.cache
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.AssemblyInfo.cs
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.dll
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\refint\Slutprojekt.dll
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.pdb
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\Slutprojekt.genruntimeconfig.cache
+E:\Program Files (x86)\Microsoft VS Code\Slutprojekt\obj\Debug\net6.0\ref\Slutprojekt.dll
